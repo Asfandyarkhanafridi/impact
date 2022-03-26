@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Rhythm &mdash; One & Multi Page Creative Template</title>
+        <title>Impact Enterprises</title>
         <meta name="description" content="">    
         <meta charset="utf-8">
         <meta name="author" content="https://themeforest.net/user/bestlooker/portfolio">
