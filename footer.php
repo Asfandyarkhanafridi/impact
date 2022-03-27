@@ -71,7 +71,6 @@
         <script src="js/contact-form.js"></script>
         <script src="js/jquery.ajaxchimp.min.js"></script>
         <script src="js/objectFitPolyfill.min.js"></script>
-        <script src="js/splitting.min.js"></script>
-        
+        <script src="js/splitting.min.js"></script>   
     </body>
 </html>

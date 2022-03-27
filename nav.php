@@ -23,10 +23,9 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#blog">Blog</a></li>
                 <li><a href="#contact">Contact</a></li>
                 
-                <li><a href="intro.html">All Demos</a></li>
+                <li></li>
             </ul>
         </div>
         <!-- End Main Menu -->

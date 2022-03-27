@@ -1,4 +1,3 @@
-@charset "utf-8";
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
@@ -2180,8 +2179,8 @@ a.logo:hover{
 .mobile-on .js-opened > .mn-has-sub > .mn-has-sub-icon-right{
     border-color: rgba(255,255,255, .4);
     -webkit-transform: rotate(270deg);
-    -moz-transform: rotate(270deg)
-    transform: rotate(270deg)
+    -moz-transform: rotate(270deg);
+    transform: rotate(270deg);
 }
 .mobile-on .inner-nav li{
     margin: 0 !important;
@@ -3507,7 +3506,7 @@ a.logo:hover{
     z-index: 3; 
 }
 .work-item:hover .work-title,
-.work-item:hover .work-descr{;
+.work-item:hover .work-descr{
     color: #fff;
     -webkit-transition: all 0.35s cubic-bezier(0.300, 0.100, 0.580, 1.000);
     transition: all 0.35s cubic-bezier(0.300, 0.100, 0.580, 1.000);

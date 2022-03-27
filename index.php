@@ -30,7 +30,7 @@
                     <?php include 'service.php'; ?>
 
                     <!-- call Action section -->
-                    <?php include 'section.php'; ?>
+                    <?php include 'callAction.php'; ?>
 
                     <!-- Portfolio -->
                     <?php include 'portfolio.php'; ?>
