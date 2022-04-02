@@ -7,17 +7,19 @@
             
                 <div class="col-md-12 col-lg-4 mb-md-50 mb-xs-30">
                     <div class="lead-alt wow linesAnimIn" data-splitting="lines">
-                        Our mission is to make design simple and useful.
+                        About Impact Enterprises.
                     </div>
                 </div>
                 
                 <div class="col-md-6 col-lg-4 mb-sm-50 mb-xs-30 wow linesAnimIn" data-splitting="lines">
-                    Lorem ipsum dolor sit amet conseur adipisci inerene maximus ligula sempe metuse pelente mattis. Maecenas volutpat, diam eni sagittise quame porta quam. Sed id dolor consectetur fermentum volutpat accumsan purus. 
+                Impact Enterprises, a dynamic outfit, formed by two professionals in August, 2014 and started its business from Quetta.
+                We have already expanded our team and services to achieve new heights, standards and goals. Our firm is organized as under.
                 </div>
                 
                 <div class="col-md-6 col-lg-4 mb-sm-50 mb-xs-30 wow linesAnimIn" data-splitting="lines">
-                    Etiam sit amet fringilla lacus susantebe sit ullamcorper pulvinar neque porttitor. Integere lectus. Praesent sede nisi eleifend fermum orci amet, iaculis libero. Donec vel ultricies purus. Name dictum sem ipsumebe euliquam.
-                </div>
+                We work to satisfy our customers to their demands by putting our best strength and resources.
+                We endeavor to provide cost efficient procurement on a larger scale, straight from the source solutions and services in the most demanding environments where lead times and supply locations are challenging.
+                 </div>
                 
             </div>
         </div>
@@ -32,12 +34,6 @@
                         <div class="team-item-image">
                             <img src="images/team/team-1.jpg" alt="" />
                             <div class="team-item-detail">
-                                <p class="team-item-detail-title">
-                                    Hello & Welcome!
-                                </p>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit lacus, a&nbsp;iaculis diam. 
-                                </p>
                                 <div class="team-social-links">
                                     <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
                                     <a href="#" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Twitter profile</span></a>
@@ -47,10 +43,10 @@
                         </div>
                         <div class="team-item-descr">
                             <div class="team-item-name">
-                                Tomas Maller
+                                Fawad Ahmed
                             </div>
                             <div class="team-item-role">
-                                Art director
+                                Chief Executive Officer
                             </div>
                         </div>
                     </div>
@@ -66,25 +62,18 @@
                         <div class="team-item-image">
                             <img src="images/team/team-2.jpg" alt="" />
                             <div class="team-item-detail">
-                                <p class="team-item-detail-title">
-                                    Nice to meet!
-                                </p>
-                                <p>
-                                    Curabitur augue, nec finibus mauris pretium eu. Duis placerat ex gravida nibh tristique porta.
-                                </p>
                                 <div class="team-social-links">
-                                    <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
                                     <a href="#" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Twitter profile</span></a>
-                                    <a href="#" target="_blank"><i class="fab fa-pinterest"></i><span class="sr-only">Pinterest profile</span></a>
+                                    <a href="#" target="_blank"><i class="fab fa-linkedin"></i><span class="sr-only">Pinterest profile</span></a>
                                 </div>
                             </div>
                         </div>
                         <div class="team-item-descr">
                             <div class="team-item-name">
-                                Steeve Anders
+                                AsadUllah Khan
                             </div>
                             <div class="team-item-role">
-                                Product designer
+                                Director
                             </div>
                         </div>
                     </div>
@@ -100,25 +89,18 @@
                         <div class="team-item-image">
                             <img src="images/team/team-3.jpg" alt="" />
                             <div class="team-item-detail">
-                                <p class="team-item-detail-title">
-                                    Whats Up!
-                                </p>
-                                <p>
-                                    Adipiscing elit curabitur eu&nbsp;adipiscing lacus eu&nbsp;adipiscing lacus, a&nbsp;iaculis diam. 
-                                </p>
                                 <div class="team-social-links">
-                                    <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
                                     <a href="#" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Twitter profile</span></a>
-                                    <a href="#" target="_blank"><i class="fab fa-pinterest"></i><span class="sr-only">Pinterest profile</span></a>
+                                    <a href="#" target="_blank"><i class="fab fa-linkedin"></i><span class="sr-only">LinkedIn profile</span></a>
                                 </div>
                             </div>
                         </div>
                         <div class="team-item-descr">
                             <div class="team-item-name">
-                                Adam Johnson
+                                Engr. Asfand Afridi
                             </div>
                             <div class="team-item-role">
-                                Developer
+                                Website Developer
                             </div>
                         </div>
                     </div>
