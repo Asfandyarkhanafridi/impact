@@ -24,7 +24,7 @@
                                 Call Us
                             </div>
                             <div class="ci-text">
-                                +61 383 767 284
+                                +92-0321-8002390
                             </div>
                         </div>
                     </div>
@@ -40,8 +40,9 @@
                                 Address
                             </div>
                             <div class="ci-text">
-                                245 Quigley Blvd, Ste K
-                            </div>
+                            <h5>Head-Office Quetta</h5>
+                            Wafa Road, Near Ismail Masjid, Quetta
+                             </div>
                             <div class="ci-link">
                                 <a href="https://goo.gl/maps/7Vw1PBhxx5BaXStr8" target="_blank">See on the Map</a>
                             </div>
@@ -59,74 +60,80 @@
                                 Email
                             </div>
                             <div class="ci-text">
-                                support@bestlooker.pro
+                                info@impact-enterprises.co
                             </div>
                             <div class="ci-link">
-                                <a href="mailto:support@bestlooker.pro">Say Hello</a>
+                                <a href="mailto:info@impact-enterprises.co">Say Hello</a>
                             </div>
                         </div>
                     </div>
                     <!-- End Email -->
-                    
-                </div>
+                  </div>
             </div>
-            
-        </div>
+         </div>
         
         <!-- Contact Form -->                            
         <div class="row">
             <div class="col-md-10 offset-md-1">
-                
-                <form class="form contact-form wow fadeInUpShort" data-wow-delay=".5s" id="contact_form">
-                    
-                    <div class="row">
+                <form class="form contact-form wow fadeInUpShort" data-wow-delay=".5s" id="contact_form" action="index.php" method="POST">
+                       <div class="row">
                         <div class="col-md-6">
                             <!-- Name -->
                             <div class="form-group">
                                 <label for="name">Name</label>
-                                <input type="text" name="name" id="name" class="input-lg round form-control" placeholder="Enter your name" pattern=".{3,100}" required aria-required="true">
+                                <input type="text" name="name" id="name" class="input-lg round form-control" placeholder="Enter your name" pattern=".{3,100}" required>
+                            </div>
+                        </div>
+                         <div class="col-md-6">
+                            <!-- Company Name -->
+                            <div class="form-group">
+                                <label for="company">Company Name</label>
+                                <input type="text" name="company" id="company" class="input-lg round form-control" placeholder="Enter your company" pattern=".{5,100}">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <!-- Email -->
                             <div class="form-group">
                                 <label for="email">Email</label>
-                                <input type="email" name="email" id="email" class="input-lg round form-control" placeholder="Enter your email" pattern=".{5,100}" required aria-required="true">
+                                <input type="email" name="email" id="email" class="input-lg round form-control" placeholder="Enter your email" pattern=".{5,100}" required>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <!-- phone -->
+                            <div class="form-group">
+                                <label for="phone">Phone</label>
+                                <input type="tel" name="phone" id="phone" class="input-lg round form-control" placeholder="Enter your phone" pattern=".{5,100}">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <!-- Name -->
+                            <div class="form-group">
+                                <label for="subject">Message Subject</label>
+                                <input type="text" name="subject" id="subject" class="input-lg round form-control" placeholder="Enter your subject" pattern=".{3,100}" required>
                             </div>
                         </div>
                     </div>
-                    
                     <!-- Message -->
                     <div class="form-group">
                         <label for="message">Message</label>
-                        <textarea name="message" id="message" class="input-lg round form-control" style="height: 130px;" placeholder="Enter your message"></textarea>
+                        <textarea name="message" id="message" class="input-lg round form-control" style="height: 130px;" placeholder="Enter your message" required></textarea>
                     </div>
                     
                     <div class="row">
-                        <div class="col-sm-6">
-                            <!-- Inform Tip -->
-                            <div class="form-tip pt-20 pt-sm-0 mb-sm-20">
-                                All the fields are required
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
+                        <div class="" style="text-align: right;">
                             <!-- Send Button -->
                             <div class="text-end pt-10">
-                                <button class="submit_btn btn btn-mod btn-large btn-round" id="submit_btn" aria-controls="result">
+                                <button type="submit" class="submit_btn btn btn-mod btn-large btn-round">
                                     Submit Message
                                 </button>
                             </div>
                         </div>
                     </div>
-                    
-                    <div id="result" role="region" aria-live="polite" aria-atomic="true"></div>
-                    
+                   <div id="result" role="region" aria-live="polite" aria-atomic="true"></div>
                 </form>
-                
-            </div>
+             </div>
         </div>
         <!-- End Contact Form -->
-        
     </div>
 </section>
 <!-- End Contact Section -->

@@ -72,5 +72,20 @@
         <script src="js/jquery.ajaxchimp.min.js"></script>
         <script src="js/objectFitPolyfill.min.js"></script>
         <script src="js/splitting.min.js"></script>   
+        <script>
+            // https://api.jquery.com/jQuery.ajax
+            $.ajax({
+                method: 'POST',
+                url: 'https://formsubmit.co/ajax/info@impact-enterprises.co',
+                dataType: 'json',
+                accepts: 'application/json',
+                data: {
+                    name: "FormSubmit",
+                    message: "I'm from Impact Enterprises"
+                },
+                success: (data) => console.log(data),
+                error: (err) => console.log(err)
+            });
+        </script>
     </body>
 </html>
