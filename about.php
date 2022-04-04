@@ -57,14 +57,14 @@
             <!-- Team item -->
             <div class="col-md-4 mb-xs-30">
                 <div class="team-item-wrap wow fadeInUp" data-wow-delay=".2s" data-wow-duration="1.2s">
-                    <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-2.jpg);"></div>
+                    <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-1.jpg);"></div>
                     <div class="team-item">
                         <div class="team-item-image">
                             <img src="images/team/team-2.jpg" alt="" />
                             <div class="team-item-detail">
                                 <div class="team-social-links">
+                                    <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
                                     <a href="#" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Twitter profile</span></a>
-                                    <a href="#" target="_blank"><i class="fab fa-linkedin"></i><span class="sr-only">Pinterest profile</span></a>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
             <!-- Team item -->
             <div class="col-md-4 mb-xs-30">
                 <div class="team-item-wrap wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1.2s">
-                    <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-3.jpg);"></div>
+                    <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-1.jpg);"></div>
                     <div class="team-item">
                         <div class="team-item-image">
                             <img src="images/team/team-3.jpg" alt="" />

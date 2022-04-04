@@ -1,3 +1,30 @@
+<?php
+
+if(isset($_POST['email']) && $_POST['email'] != '')
+{
+    if( filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) )
+    {
+        $name = $_POST['name'];
+        $company = $_POST['company'];
+        $email = $_POST['email'];
+        $phone = $_POST['phone'];
+        $subject = $_POST['subject'];
+        $message = $_POST['message'];
+        
+        $to = "masfandy9@gmail.com";
+        $body = "";
+        
+        $body .= "From: ".$name. "\r\n";
+        $body .= "Email: ".$email. "\r\n";
+        $body .= "Message: ".$message. "\r\n";
+        $body .= "Phone: ".$phone. "\r\n";
+        
+        mail($to,$subject,$body);
+        
+        echo '<script>alert("Email Sent Successful")</script>';            
+}
+}
+?>
 <!-- Contact Section -->
 <section class="page-section" id="contact">
     <div class="container relative">
@@ -24,7 +51,7 @@
                                 Call Us
                             </div>
                             <div class="ci-text">
-                                +92-0321-8002390
+                                +9203218002390
                             </div>
                         </div>
                     </div>
@@ -40,7 +67,6 @@
                                 Address
                             </div>
                             <div class="ci-text">
-                            <h5>Head-Office Quetta</h5>
                             Wafa Road, Near Ismail Masjid, Quetta
                              </div>
                             <div class="ci-link">
@@ -75,7 +101,7 @@
         <!-- Contact Form -->                            
         <div class="row">
             <div class="col-md-10 offset-md-1">
-                <form class="form contact-form wow fadeInUpShort" data-wow-delay=".5s" id="contact_form" action="index.php" method="POST">
+                <form class="form contact-form wow fadeInUpShort" data-wow-delay=".5s" id="contact_form" action="contactUs.php" method="POST">
                        <div class="row">
                         <div class="col-md-6">
                             <!-- Name -->

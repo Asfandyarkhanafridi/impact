@@ -1,31 +1,3 @@
-
-<?php
-
-if(isset($_POST['email']) && $_POST['email'] != '')
-{
-    if( filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) )
-    {
-        $name = $_POST['name'];
-        $company = $_POST['company'];
-        $email = $_POST['email'];
-        $phone = $_POST['phone'];
-        $subject = $_POST['subject'];
-        $message = $_POST['message'];
-        
-        $to = "masfandy9@gmail.com";
-        $body = "";
-        
-        $body .= "From: ".$name. "\r\n";
-        $body .= "Email: ".$email. "\r\n";
-        $body .= "Message: ".$message. "\r\n";
-        $body .= "Phone: ".$phone. "\r\n";
-        
-        mail($to,$subject,$body);
-        
-        echo '<script>alert("Email Sent Successful")</script>';            
-}
-}
-?>
 <?php include 'header.php'; ?>
     <body class="appear-animate">
         
