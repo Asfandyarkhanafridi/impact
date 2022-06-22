@@ -7,9 +7,7 @@
                     <div class="footer-social-links mb-90 mb-xs-40">
                         <a href="#" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i> <span class="sr-only">Facebook profile</span></a>
                         <a href="#" title="Twitter" target="_blank"><i class="fab fa-twitter"></i> <span class="sr-only">Twitter profile</span></a>
-                        <a href="#" title="Twitter" target="_blank"><i class="fab fa-vimeo-v"></i> <span class="sr-only">Vimeo profile</span></a>
-                        <a href="#" title="Behance" target="_blank"><i class="fab fa-behance"></i> <span class="sr-only">Behance profile</span></a>
-                        <a href="#" title="Pinterest" target="_blank"><i class="fab fa-pinterest"></i> <span class="sr-only">Pinterest profile</span></a>
+                        <a href="#" title="Linkedin" target="_blank"><i class="fab fa-linkedin"></i> <span class="sr-only">LinkedIn profile</span></a>
                     </div>
                     <!-- End Social Links -->
                     
@@ -18,12 +16,12 @@
                         
                         <!-- Copyright -->
                         <div class="footer-copy">
-                            <a href="index.html">© Rhythm 2021</a>.
+                            <a href="index.html">© Impact Enterprises 2022</a>.
                         </div>
                         <!-- End Copyright -->
                         
                         <div class="footer-made">
-                            Made with love for great people.
+                            Made by Software Developer Asfand Afridi
                         </div>
                         
                     </div>
@@ -72,20 +70,5 @@
         <script src="js/jquery.ajaxchimp.min.js"></script>
         <script src="js/objectFitPolyfill.min.js"></script>
         <script src="js/splitting.min.js"></script>   
-        <script>
-            // https://api.jquery.com/jQuery.ajax
-            $.ajax({
-                method: 'POST',
-                url: 'https://formsubmit.co/ajax/info@impact-enterprises.co',
-                dataType: 'json',
-                accepts: 'application/json',
-                data: {
-                    name: "FormSubmit",
-                    message: "I'm from Impact Enterprises"
-                },
-                success: (data) => console.log(data),
-                error: (err) => console.log(err)
-            });
-        </script>
     </body>
 </html>
