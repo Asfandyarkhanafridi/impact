@@ -21,7 +21,8 @@ if(isset($_POST['email']) && $_POST['email'] != '')
         
         mail($to,$subject,$body);
         
-        echo '<script>alert("Email Sent Successful")</script>';            
+        echo '<script>alert("Email Sent Successful")</script>';    
+        redirect('index.php');        
 }
 }
 ?>

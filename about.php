@@ -32,12 +32,12 @@
                     <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-1.jpg);"></div>
                     <div class="team-item">
                         <div class="team-item-image">
-                            <img src="images/team/team-1.jpg" alt="" />
+                            <img src="images/team/team-1.jpg" alt=""/>
                             <div class="team-item-detail">
                                 <div class="team-social-links">
                                     <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
                                     <a href="#" target="_blank"><i class="fab fa-twitter"></i><span class="sr-only">Twitter profile</span></a>
-                                    <a href="#" target="_blank"><i class="fab fa-pinterest"></i><span class="sr-only">Pinterest profile</span></a>
+                                    <a href="https://www.linkedin.com/in/fawad-ahmed-98715510/" target="_blank"><i class="fab fa-linkedin"></i><span class="sr-only">LinkedIn profile</span></a>
                                 </div>
                             </div>
                         </div>

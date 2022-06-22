@@ -22,7 +22,7 @@
                     </div>
                     <h3 class="services-title">Tax Consultancy</h3>
                     <div class="services-descr">
-                        Lorem ipsum dolor sit amet, rembe adipiscing elite. Inwege maximus ligula semper metusere pellentesque mattis. Maecenas volutpat, diam enime volutpa.
+                    Tax consulting helps people make informed decisions about tax-related issues. Tax consultants use their expertise to help clients comply with tax regulations and take advantage of adjustments, deductions, and credits that let them keep more of their money.
                     </div>
                     <div class="services-more">
                         <a href="#" class="text-link">Learn More</a>
@@ -80,7 +80,7 @@
                     </div>
                     <h3 class="services-title">Event Management</h3>
                     <div class="services-descr">
-                        Maecenas volutpat, diam enime volutpa. Cras luctus interdum sodales. Quisque quis odio dui. Sedes amet neque malesuada, lobortis commodo magna tese.
+                     We Provide project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions. It involves studying the brand, identifying its target audience, devising the event concept, and coordinating the technical aspects before actually launching the event.
                     </div>
                     <div class="services-more">
                         <a href="#" class="text-link">Learn More</a>
