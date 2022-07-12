@@ -28,29 +28,14 @@
                     
                     <!-- services section -->
                     <?php include 'service.php'; ?>
-
-                    <!-- call Action section -->
-                    <?php include 'callAction.php'; ?>
-
-                    <!-- Portfolio -->
-                    <?php include 'portfolio.php'; ?>
-
-                    <!-- process -->
-                    <?php include 'process.php'; ?>
                     
                     <!-- Divider -->
                     <hr class="mt-0 mb-0"/>
                     <!-- End Divider -->
                     
-                    <!-- Why Us -->
-                    <?php include 'whyUs.php'; ?>
-                    
                     <!-- Divider -->
                     <hr class="mt-0 mb-0"/>
                     <!-- End Divider -->
-                    
-                    <!-- testimonials section -->
-                    <?php include 'testimonial.php'; ?>
                     
                     <!-- Contact us -->
                     <?php include 'contactUs.php'; ?>

@@ -24,9 +24,7 @@
                     <div class="services-descr">
                     Tax consulting helps people make informed decisions about tax-related issues. Tax consultants use their expertise to help clients comply with tax regulations and take advantage of adjustments, deductions, and credits that let them keep more of their money.
                     </div>
-                    <div class="services-more">
-                        <a href="#" class="text-link">Learn More</a>
-                    </div>
+            
                 </div>
             </div>
             <!-- End Services Item -->
@@ -44,9 +42,7 @@
                         Full-cycle & custom web application development with UI/UX web design.
                         With our years of website production and experience, we are ready to deliver the perfect web design and development solutions.
                     </div>
-                    <div class="services-more">
-                        <a href="#" class="text-link">Learn More</a>
-                    </div>
+                    
                 </div>
             </div>
             <!-- End Services Item -->
@@ -63,9 +59,7 @@
                     <div class="services-descr">
                         Our aim is to provide cost efficient construction / procurement on a larger scale, straight from the source & offer civil works / supply solutions in the most demanding environments where lead times and supply locations are challenging. 
                     </div>
-                    <div class="services-more">
-                        <a href="#" class="text-link">Learn More</a>
-                    </div>
+                 
                 </div>
             </div>
             <!-- End Services Item -->
@@ -82,18 +76,12 @@
                     <div class="services-descr">
                      We Provide project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions. It involves studying the brand, identifying its target audience, devising the event concept, and coordinating the technical aspects before actually launching the event.
                     </div>
-                    <div class="services-more">
-                        <a href="#" class="text-link">Learn More</a>
-                    </div>
+                    
                 </div>
             </div>
             <!-- End Services Item -->
-            
-           
-            
         </div>
         <!-- End Services Grid -->
-        
     </div>
 </section>
 <!-- End Services Section -->

@@ -19,12 +19,57 @@
         <!-- Main Menu -->
         <div class="inner-nav desktop-nav">
             <ul class="clearlist scroll-nav local-scroll">
-                <li class="active"><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-                
+                <li class="active"><a href="index.php#home">Home</a></li>
+                <li><a href="index.php#about">About</a></li>
+                <li>
+                    <a href="" role="button" class="mn-has-sub" aria-haspopup="true">Tax Consultancy</a>
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    <ul class="mn-sub" style="display: none;">
+                        <li>
+                            <a href="incomeTax.php" role="button" class="mn-has-sub" aria-haspopup="true">Income Tax <i class="fa fa-angle-right right" aria-hidden="true"></i></a>
+                            <ul class="mn-sub" style="display: none;">
+                                <li>
+                                    <a href="ntnRegistration.php">NTN Registration</a>
+                                </li>
+                                <li>
+                                    <a href="annualTaxReturnFiling.php">Annual Tax Return Filing</a>
+                                </li>
+                                <li>
+                                    <a href="incomeTaxRefund.php">Income Tax Refund/Exemption</a>
+                                </li>
+                                <li>
+                                    <a href="incomeTaxAudit.php">Income Tax Audit</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                        <a href="saleTax.php" role="button" class="mn-has-sub" aria-haspopup="true">Sale Tax <i class="fa fa-angle-right right" aria-hidden="true"></i></a>
+                            <ul class="mn-sub" style="display: none;">
+                                <li>
+                                    <a href="saleTaxRegistration.php">Sale Tax Registration</a>
+                                </li>
+                                <li>
+                                    <a href="monthlySaleTaxReturnFiling.php">Monthly Sale Tax Return Filing</a>
+                                </li>
+                                <li>
+                                    <a href="saleTaxRefund.php">Sale Tax Refund</a>
+                                </li>
+                                <li>
+                                    <a href="saleTaxAudit.php">Sale Tax Audit</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="bussinessRegistration.php">Bussiness Registration</a>
+                        </li>
+                        <li>
+                            <a href="bookKeepingAudit.php">Book Keeping & Audit</a>
+                        </li>
+                    </ul>
+                </li>
+                <li> <a href="index.php#services" role="button" class="mn-has-sub" aria-haspopup="true">Other Services</a></li>
+                <li><a href="index.php#contact">Contact</a></li>
+                <li></li>
                 <li></li>
             </ul>
         </div>

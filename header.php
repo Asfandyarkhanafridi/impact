@@ -18,5 +18,6 @@
         <link rel="stylesheet" href="css/owl.carousel.css">
         <link rel="stylesheet" href="css/animate.min.css">
         <link rel="stylesheet" href="css/splitting.css">
-        <link rel="stylesheet" media="screen" href="css/style.css">    
+        <link rel="stylesheet" media="screen" href="css/style.css">   
+    
     </head>
