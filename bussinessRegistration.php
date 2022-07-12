@@ -39,8 +39,8 @@
                         <h4>Private Limited Company Registration (Other than Licensed entity)</h4>
                             <ol>
                                 <li>Three Names of the proposed company.</li>
-                                <li>Neat and Clear Scanned copies of CNIC's of all the proposed Directors / subscribers.</li>
-                                <li>Personal Email address belonging to him.</li>
+                                <li>Scanned copies of CNIC's of all the proposed Directors / subscribers.</li>
+                                <li>NTN of all the proposed Directors / subscribers.</li>
                                 <li>Original certificate of maintenance of personal bank account in his own name, if having a Business.</li>
                                 <li>Original evidence of tenancy with CNIC of owner and witness / ownership of business premises, if having a business.</li>
                                 <li>Original paid utility bill of business premises not older than 3 months, if having a business.</li>
