@@ -13,16 +13,8 @@
             <!-- main -->
             <main id="main">
             
-                <section class="page-section bg-dark-alfa-30 parallax-3" data-background="images/full-width-images/section-bg-ntnR.jpeg" style="background-image: url(&quot;images/full-width-images/section-bg-ntnR.jpeg&quot;); background-position: 50% 23px;">
-                    <div class="relative container align-left">
-                        <div class="row">  
-                            <div class="col-md-8">
-                                <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">NTN Registration</h1>
-                              
-                            </div>
-                        </div>
-                        
-                    </div>
+                <section class="page-section bg-dark-alfa-30 parallax-3" data-background="images/full-width-images/ntnRegistration.jpg" style="background-image: url(&quot;images/full-width-images/ntnRegistration.jpg&quot;); background-position: 50% 23px; background-size: 100% 300px;">
+                
                 </section>
                 <!-- End Head Section -->
                 

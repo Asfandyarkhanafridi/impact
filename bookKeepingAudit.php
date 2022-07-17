@@ -12,22 +12,8 @@
             
             <!-- main -->
             <main id="main">    
-            <section class="page-section bg-dark-alfa-30 parallax-3" data-background="images/full-width-images/section-bg-18.jpg" style="background-image: url(&quot;images/full-width-images/section-bg-18.jpg&quot;); background-position: 50% 23px;">
-                    <div class="relative container align-left">
-                        <div class="row">  
-                            <div class="col-md-8">
-                                <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Book Keeping Audit</h1>
-                            </div>
-                            
-                            <div class="col-md-4 mt-30">
-                                <div class="mod-breadcrumbs font-alt align-right">
-                                    <a href="#">Home</a>&nbsp;/&nbsp;<a href="#">Portfolio</a>&nbsp;/&nbsp;<span>Boxed</span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
-                    </div>
+            <section class="page-section bg-dark-alfa-30 parallax-3" data-background="images/full-width-images/accounting.jpg" style="background-image: url(&quot;images/full-width-images/accounting.jpg&quot;); background-position: 50% 23px; background-size: 100% 300px;">
+                   
             </section>
 
             <!-- Section -->
