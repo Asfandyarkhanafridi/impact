@@ -54,7 +54,6 @@
         <script type="text/javascript" src="js/jquery.viewport.mini.js"></script>
         <script type="text/javascript" src="js/jquery.countTo.js"></script>
         <script type="text/javascript" src="js/jquery.appear.js"></script>
-        <script type="text/javascript" src="js/jquery.sticky.js"></script>
         <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
         <script type="text/javascript" src="js/jquery.fitvids.js"></script>
         <script type="text/javascript" src="js/owl.carousel.min.js"></script>
