@@ -41,7 +41,7 @@
         init_services();        
         init_map();
         init_bg_video();
-        Splitting();
+        //Splitting();
         init_shortcodes();
         init_tooltips();
         init_masonry();
