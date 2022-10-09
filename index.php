@@ -154,7 +154,7 @@ if(isset($_POST['email']) && $_POST['email'] != '')
                                             <div class="team-item-decoration" style="background-image: url(images/team/team-decoration-1.jpg);"></div>
                                             <div class="team-item">
                                                 <div class="team-item-image">
-                                                    <img src="images/team/team-1.jpg" alt=""/>
+                                                    <img src="images/team/team-2.jpg" alt=""/>
                                                     <div class="team-item-detail">
                                                         <div class="team-social-links">
                                                             <a href="#" target="_blank"><i class="fab fa-facebook"></i><span class="sr-only">Facebook profile</span></a>
